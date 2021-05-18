@@ -1,3 +1,6 @@
+# 这是一个简单的计算器，使用React脚手架和pubsub-js库实现
+# This is a simple calculatotr constructed by create-react-app and pubsub-js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
